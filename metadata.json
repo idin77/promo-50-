@@ -1,0 +1,6 @@
+{
+  "name": "HADIGITAL Landing Page",
+  "description": "Professional landing page for HADIGITAL website construction services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
